@@ -86,6 +86,7 @@ We present the models tested in this dataset **ranked by SARI score**.
 | --------------- | :-----: | :-----: | -------------- | ---- |
 | ACCESS (Martin et al., 2019) | 72.53 | 41.87  | [Controllable Sentence Simplification](https://arxiv.org/abs/1910.02677) | [Official](https://github.com/facebookresearch/access) |
 | DMASS + DCSS (Zhao et al., 2018) |  | 40.45 | [Integrating Transformer and Paraphrase Rules for Sentence Simplification](http://aclweb.org/anthology/D18-1355) | [Official](https://github.com/Sanqiang/text_simplification) |
+| Unsupervised LSBert (Qiang et al., 2020) |  | 39.37 | [LSBert: A Simple Framework for Lexical Simplification](https://arxiv.org/abs/2006.14939) | [Official](https://github.com/qiang2100/BERT-LS) |
 | SBSMT + PPDB + SARI (Xu et al, 2016) | 73.08\* (72.36) | 39.96\* (37.91) | [Optimizing Statistical Machine Translation for Text Simplification](http://aclweb.org/anthology/Q16-1029) | [Official](https://github.com/cocoxu/simplification/) |
 | PBMT-R (Wubben et al., 2012) | 81.11\* | 38.56\* | [Sentence Simplification by Monolingual Machine Translation](http://aclweb.org/anthology/P12-1107) |  |
 | EditNTS (Dong et al., 2019) | 86.69 | 38.22 | [EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing](https://www.aclweb.org/anthology/P19-1331) | [Official](https://github.com/yuedongP/EditNTS) |
